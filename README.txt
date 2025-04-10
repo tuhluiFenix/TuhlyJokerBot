@@ -12,7 +12,7 @@
 ## Установка
 ```bash
 # 1. Клонируйте репозиторий
-git clone https://github.com/tuhluiFenix/tuhly_joker_bot.git
+git clone https://github.com/tuhluiFenix/TuhlyJokerBot.git
 cd tuhly_joker_bot
 
 # 2. Установите зависимости
