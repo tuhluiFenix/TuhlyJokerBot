@@ -1,0 +1,87 @@
+2025-04-16 12:20:17,777 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 12:20:18,568 - __main__ - INFO - Бот запущен
+2025-04-16 12:20:19,081 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getMe "HTTP/1.1 200 OK"
+2025-04-16 12:20:19,155 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-16 12:20:19,160 - telegram.ext.Application - INFO - Application started
+2025-04-16 12:20:19,359 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:20:19,483 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 12:20:19,668 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 12:20:19,777 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 12:20:22,466 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:20:22,650 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 12:20:24,082 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:20:24,187 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 12:20:25,761 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:20:25,868 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 12:20:26,520 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:20:26,623 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 12:20:36,589 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:20:37,888 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:20:38,120 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 12:20:47,958 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:20:58,027 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:21:08,096 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:21:13,971 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:21:13,974 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-16 12:21:13,975 - telegram.ext.Application - INFO - Application.stop() complete
+2025-04-16 12:25:01,173 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 12:25:02,078 - __main__ - INFO - Бот запущен
+2025-04-16 12:25:02,663 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getMe "HTTP/1.1 200 OK"
+2025-04-16 12:25:02,739 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-16 12:25:02,743 - telegram.ext.Application - INFO - Application started
+2025-04-16 12:25:04,923 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:25:05,041 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 12:25:06,206 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:25:06,307 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 12:25:07,871 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:25:08,028 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 12:25:13,151 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:25:13,154 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-16 12:25:13,156 - telegram.ext.Application - INFO - Application.stop() complete
+2025-04-16 12:40:01,809 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 12:40:02,601 - __main__ - INFO - Бот запущен
+2025-04-16 12:40:03,161 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getMe "HTTP/1.1 200 OK"
+2025-04-16 12:40:03,227 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-16 12:40:03,230 - telegram.ext.Application - INFO - Application started
+2025-04-16 12:40:08,456 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:40:08,461 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 12:40:08,462 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 12:40:09,431 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 12:40:09,695 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 12:40:10,433 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 12:40:14,156 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:40:14,159 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 12:40:14,160 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 12:40:15,084 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 12:40:15,344 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 12:40:15,883 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 12:40:25,668 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:40:35,737 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:40:45,807 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:40:55,897 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:41:05,964 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:41:16,032 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:41:26,104 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:41:36,173 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:41:46,242 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:41:51,253 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:41:51,255 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-16 12:41:51,256 - telegram.ext.Application - INFO - Application.stop() complete
