@@ -16,24 +16,24 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 async def handle_buttons(update: Update, context: ContextTypes.DEFAULT_TYPE):
     button_text = update.message.text
-    
+
     if button_text == "Радость 😊":
         reddit = RedditClient(
             os.getenv("REDDIT_CLIENT_ID"),
             os.getenv("REDDIT_SECRET")
         )
-        
-        memes = reddit.get_happy_memes(limit=3)
-        
+
+        memes = reddit.get_happy_memes(limit=5)
+
         if not memes:
             await update.message.reply_text("Не удалось найти радостные мемы 😢")
             return
-            
+
         for meme in memes:
             try:
                 url = meme['url']
                 mime_type, _ = mimetypes.guess_type(url)
-                
+
                 if mime_type and mime_type.startswith('image/'):
                     if mime_type.endswith('gif'):
                         await update.message.reply_animation(
@@ -55,11 +55,11 @@ async def handle_buttons(update: Update, context: ContextTypes.DEFAULT_TYPE):
                         f"{meme['title']}\n(с r/{meme['subreddit']})\n{url}"
                     )
                 break  # Отправляем только один мем
-                
+
             except Exception as e:
                 print(f"Ошибка при отправке мема: {e}")
                 continue
-                
+ 
         return  # Прерываем дальнейшую обработку для кнопки "Радость"
 
     # Обработка остальных кнопок
