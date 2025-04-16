@@ -59,7 +59,7 @@ async def handle_buttons(update: Update, context: ContextTypes.DEFAULT_TYPE):
             except Exception as e:
                 print(f"Ошибка при отправке мема: {e}")
                 continue
- 
+
         return  # Прерываем дальнейшую обработку для кнопки "Радость"
 
     # Обработка остальных кнопок
