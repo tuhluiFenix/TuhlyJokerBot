@@ -85,3 +85,1016 @@ See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.htm
 2025-04-16 12:41:51,253 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
 2025-04-16 12:41:51,255 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
 2025-04-16 12:41:51,256 - telegram.ext.Application - INFO - Application.stop() complete
+2025-04-16 12:56:18,520 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 12:56:19,293 - __main__ - INFO - Бот запущен
+2025-04-16 12:56:19,796 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getMe "HTTP/1.1 200 OK"
+2025-04-16 12:56:19,859 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-16 12:56:19,863 - telegram.ext.Application - INFO - Application started
+2025-04-16 12:56:20,053 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:56:20,060 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 12:56:20,060 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 12:56:21,196 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 12:56:21,524 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 12:56:22,157 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 12:56:23,614 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:56:23,620 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 12:56:23,621 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 12:56:24,599 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 12:56:24,918 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 12:56:25,322 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 12:56:35,291 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:56:45,356 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:56:51,694 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 12:56:51,696 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-16 12:56:51,699 - telegram.ext.Application - INFO - Application.stop() complete
+2025-04-16 14:04:13,018 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 14:04:14,034 - __main__ - INFO - Бот запущен
+2025-04-16 14:04:14,698 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getMe "HTTP/1.1 200 OK"
+2025-04-16 14:04:14,766 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-16 14:04:14,769 - telegram.ext.Application - INFO - Application started
+2025-04-16 14:04:23,793 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:04:23,796 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 14:04:23,797 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:04:24,701 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:04:24,991 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:04:25,642 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:04:29,728 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:04:29,732 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 14:04:29,734 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:04:30,632 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:04:30,948 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:04:31,497 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:04:41,357 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:04:51,439 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:05:01,504 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:05:11,581 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:05:21,649 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:05:31,715 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:05:41,779 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:05:51,850 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:06:01,913 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:06:11,980 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:06:22,046 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:06:32,111 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:06:42,176 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:06:52,248 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:07:02,331 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:07:12,402 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:07:22,498 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:07:32,566 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:07:42,639 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:07:52,703 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:08:02,769 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:08:12,836 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:08:22,901 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:08:32,969 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:08:43,033 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:08:53,112 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:09:03,178 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:09:13,255 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:09:23,322 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:09:33,386 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:09:35,013 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:09:35,018 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 14:09:35,020 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:09:35,993 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:09:36,309 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:09:36,907 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:09:46,690 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:09:56,756 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:10:06,824 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:10:16,889 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:10:26,953 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:10:37,020 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:10:47,100 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:10:57,167 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:10:59,589 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:10:59,591 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 14:10:59,594 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:11:00,580 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:11:00,904 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:11:01,515 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:11:11,293 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:11:21,364 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:11:31,428 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:11:41,513 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:11:51,582 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:12:01,649 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:12:11,727 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:12:21,794 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:12:31,865 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:12:41,944 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:12:52,012 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:13:02,079 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:13:12,161 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:13:22,225 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:13:32,295 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:13:42,364 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:13:52,438 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:14:02,505 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:14:12,569 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:14:22,636 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:14:32,703 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:14:42,770 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:14:52,833 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:15:02,902 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:15:12,974 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:15:23,039 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:15:33,108 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:15:43,174 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:15:53,245 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:16:03,311 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:16:13,376 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:16:23,452 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:16:33,519 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:16:43,635 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:16:53,701 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:17:03,769 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:17:13,833 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:17:23,916 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:17:33,981 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:17:44,047 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:17:54,111 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:18:04,175 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:18:14,259 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:18:24,323 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:18:34,392 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:18:44,511 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:18:54,577 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:19:04,641 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:19:14,706 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:19:24,771 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:19:34,872 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:19:44,948 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:46:07,128 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 14:46:07,757 - __main__ - INFO - Бот запущен
+2025-04-16 14:46:08,304 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getMe "HTTP/1.1 200 OK"
+2025-04-16 14:46:08,381 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-16 14:46:08,385 - telegram.ext.Application - INFO - Application started
+2025-04-16 14:46:13,668 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:46:13,672 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 14:46:13,674 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:46:14,622 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:46:14,907 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:46:15,698 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:46:15,859 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:46:16,014 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:46:16,143 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:46:16,248 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:46:16,375 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:46:16,509 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:46:16,609 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:46:16,712 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:46:16,811 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:46:17,551 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:46:17,670 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:46:17,787 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:46:25,490 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:46:35,559 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:46:45,629 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:46:55,696 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:46:58,186 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:46:58,191 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 14:46:58,192 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:46:59,129 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:46:59,418 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:46:59,943 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:47:00,048 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:47:00,157 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:47:00,252 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:47:00,345 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:47:00,444 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:47:00,545 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:47:00,642 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:47:00,742 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:47:00,838 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:47:00,938 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:47:01,813 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:47:01,921 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:47:09,795 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:47:19,863 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:47:29,931 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:47:32,150 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:47:32,506 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:47:34,979 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:47:35,073 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:47:36,304 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:47:36,409 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:47:37,909 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:47:37,914 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 14:47:37,915 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:47:38,880 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:47:39,212 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:47:39,640 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:47:39,741 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:47:39,870 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:47:39,990 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:47:40,177 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:47:40,358 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:47:40,533 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:47:40,673 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:47:40,811 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:47:40,933 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:47:41,057 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:47:41,284 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:47:41,538 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:47:49,597 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:47:59,664 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:48:09,736 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:48:14,877 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:48:14,879 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-16 14:48:14,880 - telegram.ext.Application - INFO - Application.stop() complete
+2025-04-16 14:49:08,788 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 14:49:09,537 - __main__ - INFO - Бот запущен
+2025-04-16 14:49:09,976 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getMe "HTTP/1.1 200 OK"
+2025-04-16 14:49:10,039 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-16 14:49:10,042 - telegram.ext.Application - INFO - Application started
+2025-04-16 14:49:12,700 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:49:12,703 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 14:49:12,706 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:49:13,554 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:49:13,865 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:49:14,321 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:49:14,426 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:49:14,522 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:49:14,618 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:49:14,734 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:49:14,833 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:49:14,950 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:49:15,048 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:49:15,157 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:49:15,278 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:49:15,370 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:49:15,467 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:49:15,563 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:49:24,304 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:49:34,374 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:49:44,444 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:49:54,513 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:50:04,582 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:50:14,651 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:50:24,719 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:50:34,795 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:50:44,869 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:50:54,940 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:51:05,009 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:51:15,084 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:51:25,156 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:51:35,227 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:51:45,299 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:51:55,366 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:52:05,443 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:52:15,511 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:52:25,584 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:52:35,656 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:52:45,729 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:52:55,803 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:53:05,874 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:53:15,939 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:53:15,942 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-16 14:53:15,943 - telegram.ext.Application - INFO - Application.stop() complete
+2025-04-16 14:53:18,485 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 14:53:19,109 - __main__ - INFO - Бот запущен
+2025-04-16 14:53:19,619 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getMe "HTTP/1.1 200 OK"
+2025-04-16 14:53:19,680 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-16 14:53:19,683 - telegram.ext.Application - INFO - Application started
+2025-04-16 14:53:22,633 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:53:22,637 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-16 14:53:22,639 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:53:23,582 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:53:23,860 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-16 14:53:24,590 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:53:24,699 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:53:24,819 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:53:24,916 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:53:25,031 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:53:25,133 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:53:25,228 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:53:25,326 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:53:25,428 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:53:25,561 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:53:25,747 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:53:25,852 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-16 14:53:25,968 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-16 14:53:34,499 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:53:44,568 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:53:54,635 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:54:04,705 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:54:14,784 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:54:24,853 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:54:34,923 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:54:44,992 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:54:55,062 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:55:05,130 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:55:15,199 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:55:25,269 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:55:35,337 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:55:45,406 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:55:55,475 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:56:05,545 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:56:15,616 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:56:25,683 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:56:35,753 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:56:45,820 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:56:55,889 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:57:05,960 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:57:16,028 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:57:26,101 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:57:36,169 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:57:46,238 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:57:56,309 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:58:06,392 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:58:16,467 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:58:26,538 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:58:36,607 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:58:46,677 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:58:56,747 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:59:01,469 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-16 14:59:01,471 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-16 14:59:01,473 - telegram.ext.Application - INFO - Application.stop() complete
+2025-04-17 18:00:01,111 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:00:01,708 - __main__ - INFO - Бот запущен
+2025-04-17 18:00:02,113 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getMe "HTTP/1.1 200 OK"
+2025-04-17 18:00:02,174 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-17 18:00:02,175 - telegram.ext.Application - INFO - Application started
+2025-04-17 18:00:02,361 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:00:02,477 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:00:02,481 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:00:02,482 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:00:04,520 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:00:04,773 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:00:05,327 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-17 18:00:12,424 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:00:22,489 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:00:32,551 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:00:42,615 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:00:52,677 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:01:02,741 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:01:12,806 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:01:22,870 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:01:32,934 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:01:42,997 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:01:53,062 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:02:03,129 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:02:13,193 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:02:23,256 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:02:32,407 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:02:32,662 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:02:35,201 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:02:35,204 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:02:35,205 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:02:36,130 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:02:36,376 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:02:36,824 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:02:43,417 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:02:43,419 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:02:43,421 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:02:44,337 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:02:44,638 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:02:45,355 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:02:55,047 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:03:05,111 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:03:15,174 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:03:25,239 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:03:35,303 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:03:45,367 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:03:55,428 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:04:05,493 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:04:15,576 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:04:25,643 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:04:35,713 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:04:45,777 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:04:55,842 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:05:05,905 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:05:15,967 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:05:26,033 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:05:36,095 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:05:46,156 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:05:56,219 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:06:06,283 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:06:16,347 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:06:26,410 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:06:30,910 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:06:30,912 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:06:30,913 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:06:31,920 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:06:32,233 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:06:32,766 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:06:34,389 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:06:34,391 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:06:34,392 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:06:36,055 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:06:36,377 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:06:36,839 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:06:42,385 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:06:42,388 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:06:42,389 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:06:43,403 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:06:43,701 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:06:44,242 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-17 18:06:46,280 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:06:46,282 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:06:46,283 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:06:47,196 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:06:47,480 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:06:47,878 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-17 18:06:50,605 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:06:50,608 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:06:50,610 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:06:51,530 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:06:51,826 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:06:52,250 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:07:02,194 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:07:12,256 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:07:22,319 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:07:32,384 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:07:42,448 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:07:52,513 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:08:02,576 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:08:12,640 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:08:22,711 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:08:32,773 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:08:42,846 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:08:52,908 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:09:02,969 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:09:13,034 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:09:23,097 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:09:33,163 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:09:43,224 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:09:53,288 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:10:03,354 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:10:13,417 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:10:23,482 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:10:33,545 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:10:43,609 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:10:53,669 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:11:03,740 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:11:13,807 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:11:23,871 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:11:33,393 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:11:33,395 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:11:33,397 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:11:34,349 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:11:34,629 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:11:35,264 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:11:38,282 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:11:38,283 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:11:38,284 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:11:39,217 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:11:39,513 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:11:39,940 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:11:41,629 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:11:41,631 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:11:41,632 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:11:42,550 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:11:42,864 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:11:43,251 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:11:50,615 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:11:50,617 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:11:50,619 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:11:51,519 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:11:51,763 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:11:52,261 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:12:00,646 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:12:00,647 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:12:00,648 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:01,688 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:01,968 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:02,569 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-17 18:12:05,378 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:12:05,380 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:12:05,381 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:06,324 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:06,602 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:07,037 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:12:10,966 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:12:10,967 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:12:10,968 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:12,101 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:12,451 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:13,351 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-17 18:12:19,471 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:12:19,472 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:12:19,474 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:20,405 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:20,689 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:21,205 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:12:24,638 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:12:24,640 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:12:24,641 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:25,662 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:25,909 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:26,436 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-17 18:12:36,246 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:12:39,408 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:12:39,410 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:12:39,411 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:40,319 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:40,605 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:41,225 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:12:43,549 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:12:43,552 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:12:43,553 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:44,640 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:44,929 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:45,317 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:12:47,206 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:12:47,210 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:12:47,211 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:48,144 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:48,411 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:48,762 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-17 18:12:50,234 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:12:50,236 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:12:50,237 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:51,119 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:51,383 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:12:51,771 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:13:01,730 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:13:06,625 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:13:06,626 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:13:06,627 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:07,569 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:07,831 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:08,369 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-17 18:13:10,089 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:13:10,093 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:13:10,094 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:11,385 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:11,663 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:12,063 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:13:13,083 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:13:13,087 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:13:13,088 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:14,001 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:14,305 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:14,780 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:13:16,712 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:13:16,714 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:13:16,715 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:18,681 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:18,961 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:19,348 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:13:20,709 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:13:20,713 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:13:20,714 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:21,665 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:21,972 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:22,465 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:13:23,645 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:13:23,648 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:13:23,649 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:24,626 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:24,917 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:25,283 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:13:27,905 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:13:27,907 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:13:27,909 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:28,865 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:29,151 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:29,569 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:13:30,707 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:13:30,709 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:13:30,711 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:31,611 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:31,884 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:32,296 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:13:34,128 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:13:34,130 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:13:34,131 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:34,956 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:35,224 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:35,620 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:13:37,929 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:13:37,931 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:13:37,932 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:38,883 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:39,175 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:39,695 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendPhoto "HTTP/1.1 200 OK"
+2025-04-17 18:13:41,351 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:13:41,354 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:13:41,355 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:42,256 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:42,547 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:42,940 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:13:44,123 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:13:44,126 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:13:44,126 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:45,036 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:45,320 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:45,686 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:13:46,905 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:13:46,907 - clients.reddit - INFO - Reddit подключен. Юзер: None
+2025-04-17 18:13:46,909 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:47,846 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:48,120 - praw - WARNING - It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+
+2025-04-17 18:13:48,499 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/sendMessage "HTTP/1.1 200 OK"
+2025-04-17 18:13:58,594 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:14:08,359 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8010582966:AAGG7rWOpyET2ZtI4eJ0aMsL6LTCWQ5LbnM/getUpdates "HTTP/1.1 200 OK"
+2025-04-17 18:14:08,362 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-17 18:14:08,363 - telegram.ext.Application - INFO - Application.stop() complete

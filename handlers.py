@@ -23,7 +23,7 @@ async def handle_buttons(update: Update, context: ContextTypes.DEFAULT_TYPE):
             os.getenv("REDDIT_SECRET")
         )
 
-        memes = reddit.get_happy_memes(limit=5)
+        memes = reddit.get_happy_memes()
 
         if not memes:
             await update.message.reply_text("Не удалось найти радостные мемы 😢")
@@ -54,7 +54,8 @@ async def handle_buttons(update: Update, context: ContextTypes.DEFAULT_TYPE):
                     await update.message.reply_text(
                         f"{meme['title']}\n(с r/{meme['subreddit']})\n{url}"
                     )
-                break  # Отправляем только один мем
+                reddit.sent_memes.add(meme['id'])
+                break
 
             except Exception as e:
                 print(f"Ошибка при отправке мема: {e}")
