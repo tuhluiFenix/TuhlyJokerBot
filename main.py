@@ -12,17 +12,14 @@ def main():
     logger = logging.getLogger(__name__)
 
     try:
-        # Загрузка конфигурации
         load_and_validate(
             ['REDDIT_CLIENT_ID', 'REDDIT_SECRET', 'TELEGRAM_TOKEN'])
 
-        # Инициализация клиентов
         RedditClient(
             os.getenv("REDDIT_CLIENT_ID"),
             os.getenv("REDDIT_SECRET")
         )
 
-        # Запуск бота
         app = Application.builder().token(os.getenv("TELEGRAM_TOKEN")).build()
         app.add_handler(CommandHandler("start", start))
         app.add_handler(MessageHandler(

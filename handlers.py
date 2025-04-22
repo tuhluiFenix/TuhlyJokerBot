@@ -16,19 +16,39 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 async def handle_buttons(update: Update, context: ContextTypes.DEFAULT_TYPE):
     button_text = update.message.text
+    reddit = RedditClient(
+        os.getenv("REDDIT_CLIENT_ID"),
+        os.getenv("REDDIT_SECRET")
+    )
 
     if button_text == "Радость 😊":
-        reddit = RedditClient(
-            os.getenv("REDDIT_CLIENT_ID"),
-            os.getenv("REDDIT_SECRET")
-        )
-
         memes = reddit.get_happy_memes()
 
         if not memes:
             await update.message.reply_text("Не удалось найти радостные мемы 😢")
             return
 
+    elif button_text == "Грусть 😢":
+        memes = reddit.get_sad_memes()
+
+        if not memes:
+            await update.message.reply_text("Не удалось найти грустные мемы... что ещё печальнее 😔")
+            return
+    elif button_text == "Проклятье 💀":
+        memes = reddit.get_cursed_memes()
+
+        if not memes:
+            await update.message.reply_text("Не удалось найти проклятые мемы, ты проклят ☠️👻")
+            return
+
+    elif button_text == "Код 💻":
+        memes = reddit.get_code_memes()
+
+        if not memes:
+            await update.message.reply_text("Не удалось найти мемы про код `инициализую восстание`")
+            return
+
+    if button_text in ["Радость 😊", "Грусть 😢", "Проклятье 💀", "Код 💻"]:
         for meme in memes:
             try:
                 url = meme['url']
@@ -61,14 +81,9 @@ async def handle_buttons(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 print(f"Ошибка при отправке мема: {e}")
                 continue
 
-        return  # Прерываем дальнейшую обработку для кнопки "Радость"
+        return
 
-    # Обработка остальных кнопок
-    responses = {
-        "Грусть 😢": "Пепел былых мемов скоро явится... 😢",
-        "Код 💻": "**Кряхтящий мем про код:**\n`Инициализирую восстание...` 💻",
-        "Проклятье 💀": "Тьма сгущается... жди мемов после полуночи 🕯️"
-    }
+    responses = {}
 
     await update.message.reply_text(
         text=responses.get(button_text, "⚠️ Неизвестное заклинание!"),
